@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherStationApp", "WeatherStationApp.csproj", "{2959371A-BE4C-40B3-A369-E537D90E1FC8}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WeatherStationWorker", "..\WeatherStationWorker\WeatherStationWorker.pyproj", "{9CEC46E7-090D-4BF5-B1D6-963679884388}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,8 @@ Global
 		{2959371A-BE4C-40B3-A369-E537D90E1FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2959371A-BE4C-40B3-A369-E537D90E1FC8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2959371A-BE4C-40B3-A369-E537D90E1FC8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9CEC46E7-090D-4BF5-B1D6-963679884388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CEC46E7-090D-4BF5-B1D6-963679884388}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
